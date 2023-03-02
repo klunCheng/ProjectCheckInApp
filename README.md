@@ -5,7 +5,7 @@
 **SharedPreferences preferences = getActivity().getSharedPreferences("userInfo",MODE_PRIVATE);** </p>
 功能 or 頁面： **(完成或刪除在後面標示)** </p>
 1. 主畫面(K 完成)
-2. 登入(L,完成，待測試)
+2. 登入(L,完成)
 3. 註冊(K,完成)
 4. 老師(L) </p>
    4.1 主畫面(完成) </p>
